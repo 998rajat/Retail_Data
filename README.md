@@ -26,8 +26,8 @@ The dataset (`Retail_Dataset.csv`) contains the following columns:
 ---
 
 ##  KPIs & Calculations
-
-| Metric                             | Value / Description                        |
+---------------------------------------------------------------------------
+|         Metric             |         Value / Description                |             
 |--------------------------- |--------------------------------------------|
 | **Total Sales**            |  Total revenue generated from all orders   |
 |  **Average Order Value**   | Mean value per customer transaction        |
@@ -36,8 +36,8 @@ The dataset (`Retail_Dataset.csv`) contains the following columns:
 |  **Top Customers**         | Customers with highest total sales         |
 |  **Peak Sales Day**        | Day with the highest total revenue         |
 |  **Product Order Count**   | Frequency of product orders                |
-
----
+|-------------------------------------------------------------------------|                                                                         
+-
 
 ## 📌 Exploratory Analysis & Visualizations
 
@@ -45,6 +45,10 @@ The dataset (`Retail_Dataset.csv`) contains the following columns:
 
 - Extracted month from `OrderDate` and calculated total sales
 - Line chart used to show month-over-month sales trend
+
+
+-<a href ="https://1drv.ms/i/c/fda6e259ac96d058/EebsMDc0FUJIovOfbT3bKbkBwQi6PHwTmHNK-H4uSBaQOg?e=ZYHQW4"> Retail_Data_set(*Monthly Revenue Trend Chart*)</a>
+
 
 ### Top 5 Products by Quantity Sold
 
@@ -56,10 +60,14 @@ The dataset (`Retail_Dataset.csv`) contains the following columns:
 - Visual comparison of total sales per product
 - Helps identify top revenue-generating items
 
+-<a href ="https://1drv.ms/i/c/fda6e259ac96d058/EaW8ft-x4U9MkXxI1IREyn4BkeSl928UFjOVC-BivrUwbg?e=mtQvMm"> Retail_Data_set(*Total Sales By Product Chart*)</a>
+
 ###  Share of Each Product – Pie Chart
 
 - Product quantity distribution visualized as percentages
 - Useful for inventory mix and category-level planning
+
+-<a href ="https://1drv.ms/i/c/fda6e259ac96d058/ESPehfqRkA1OpozrsIsHXtcB-626UnHn7sCs81jCFolYjg?e=bHyThX"> Retail_Data_set(*Share Of Each Product*)</a>
 
 ###  Day with Highest Sales
 
@@ -76,7 +84,8 @@ The dataset (`Retail_Dataset.csv`) contains the following columns:
 - Analyzed relationships between `Quantity`, `Price`, and `Sales`
 - Highlights which factors most influence revenue
 
----
+
+-<a href ="https://1drv.ms/i/c/fda6e259ac96d058/EYz7AjcI_gpNvQ9rYzBqSlYB3et0Zp9SbjRdasgAG6PSNA?e=PMQcmt"> Retail_Data_set(*Correlation Heatmap*)</a>
 
 ##  Visual Tools Used
 
